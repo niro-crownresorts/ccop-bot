@@ -1,0 +1,23 @@
+{
+  "name": "ccop",
+  "version": "0.0.1",
+  "description": "CCOP Bot",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niro-crownresorts/ccopbot.git"
+  },
+  "keywords": [
+    "BOT",
+    "CCOP"
+  ],
+  "author": "Crown IT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/niro-crownresorts/ccopbot/issues"
+  },
+  "homepage": "https://github.com/niro-crownresorts/ccopbot#readme"
+}
