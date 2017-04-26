@@ -37,6 +37,7 @@ flint.on('message', function(bot, trigger, id) {
 });
 
 flint.on('initialized', function() {
+  console.log('initialized %s rooms', flint.bots.length);
   flint.debug('initialized %s rooms', flint.bots.length);
 });
 
