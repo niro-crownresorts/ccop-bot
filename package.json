@@ -1,14 +1,14 @@
 {
-  "name": "ccop",
+  "name": "ccop-bot",
   "version": "0.0.1",
   "description": "CCOP Bot",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm install && node --use_strict app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/niro-crownresorts/ccopbot.git"
+    "url": "git+https://github.com/niro-crownresorts/ccop-bot.git"
   },
   "keywords": [
     "BOT",
@@ -17,7 +17,12 @@
   "author": "Crown IT",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/niro-crownresorts/ccopbot/issues"
+    "url": "https://github.com/niro-crownresorts/ccop-bot/issues"
   },
-  "homepage": "https://github.com/niro-crownresorts/ccopbot#readme"
+  "homepage": "https://github.com/niro-crownresorts/ccop-bot#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "node-flint": "^4.2.1"
+  }
 }
