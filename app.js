@@ -2,6 +2,7 @@ var Flint = require('node-flint');
 var webhook = require('node-flint/webhook');
 var express = require('express');
 var bodyParser = require('body-parser');
+var config = require('./config.json');
 var app = express();
 app.use(bodyParser.json());
 
