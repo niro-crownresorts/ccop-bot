@@ -1,5 +1,5 @@
 {
-  "webhookUrl": "http://ccopbot.asetestcc01.p.azurewebsites.net/",
-  "token": "Y2lzY29zcGFyazovL3VzL1dFQkhPT0svNWE2NmU1ZmEtNmFhMy00MzhiLTg5YWMtNjZhMDNhODc1OWU2",
+  "webhookUrl": "http://ccopbot.asetestcc01.p.azurewebsites.net",
+  "token": "ZTIwMzlkOTktODYzZi00Mzc4LTliODgtMGEyYjRiMjVlM2VmMDM1NDk5NGQtMTRi",
   "port": 7001
 }
