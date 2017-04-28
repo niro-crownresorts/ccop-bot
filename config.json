@@ -1,5 +1,5 @@
 {
-  "webhookUrl": "http://ccopbot.asetestcc01.p.azurewebsites.net",
+  "webhookUrl": "https://ccopbot.herokuapp.com/",
   "token": "ZTIwMzlkOTktODYzZi00Mzc4LTliODgtMGEyYjRiMjVlM2VmMDM1NDk5NGQtMTRi",
   "port": 7001
 }
