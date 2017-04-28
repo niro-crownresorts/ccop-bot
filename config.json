@@ -1,5 +1,5 @@
 {
-  "webhookUrl": "https://ccopbot.herokuapp.com/",
-  "token": "ZTIwMzlkOTktODYzZi00Mzc4LTliODgtMGEyYjRiMjVlM2VmMDM1NDk5NGQtMTRi",
+  "webhookUrl": "https://ccopbot.herokuapp.com",
+  "token": "MmQ2NTY4NDAtODUyMi00OTlmLTg3MTMtMmMxNmFhM2UxZWEyODE4MzQwMWEtODk0",
   "port": 7001
 }
