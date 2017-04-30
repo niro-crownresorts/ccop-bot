@@ -13,6 +13,7 @@ console.log("Starting flint, please wait...");
 
 // say hello
 flint.hears('hello', function(bot, trigger) {
+  console.log("inside hello..!")
    bot.say('Hello %s! ' + 'Thank you for getting in touch today! How can I help you?', trigger.personDisplayName);
 });
 
